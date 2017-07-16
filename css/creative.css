@@ -452,3 +452,6 @@ body {
 #skills {
   padding: 50px 0px;
 }
+.header-content-inner a {
+  margin-bottom: 30px;
+}
