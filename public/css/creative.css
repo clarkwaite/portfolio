@@ -446,12 +446,19 @@ body {
                #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px,
                #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px;
 }
-#homeHeading {
-  margin-top: 110px;
-}
 #skills {
   padding: 50px 0px;
 }
 .header-content-inner a {
   margin-bottom: 30px;
+}
+@media (min-width: 768px) {
+  #homeHeading {
+  font-size: 46px;
+  }
+}
+@media (max-width: 458px) {
+  #homeHeading {
+  font-size: 23px;
+  }
 }
