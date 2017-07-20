@@ -454,7 +454,8 @@ body {
 }
 @media (min-width: 768px) {
   #homeHeading {
-  font-size: 46px;
+  font-size: 45px;
+  margin-top: 200px;
   }
 }
 @media (max-width: 458px) {
