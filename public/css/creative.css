@@ -426,6 +426,9 @@ body {
 #contact a {
   color: white;
 }
+#contact p {
+  margin-bottom: 50px;
+}
 .port-image {
   border: solid black 1px;
 }
